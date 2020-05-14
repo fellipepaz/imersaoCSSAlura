@@ -1,0 +1,41 @@
+
+
+body {
+  background-image: url('http://www.ung.br/sites/ung.br/files/fields/imagemLateral/noticias/2018/02/ciencia-da-computacao.jpg');
+  font-family:Calibre;
+  background-color:;
+  background-size: 138vh;
+  height: 100vh;
+}
+.menu {
+  background-color:; 
+  
+}
+.menu ul {
+  display:flex;
+  justify-content: space-around;
+  
+}
+.menu li {
+  list-style: none;
+  
+}
+
+a{
+  color:whitesmoke;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+  text-decoration-color:whitesmoke;
+ 
+}
+.site-subtitle,
+.site-title {
+ text-align: center;
+ color: whitesmoke;
+}
+.site-subtitle{
+  font-style: italic;
+}
+
